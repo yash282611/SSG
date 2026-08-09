@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-BOT_TOKEN = getenv(8867636200:AAHC0dWdhWrkVUWzg0eUALsW0eTdsQRUB48)
+BOT_TOKEN = getenv("BOT_TOKEN" "8867636200:AAHC0dWdhWrkVUWzg0eUALsW0eTdsQRUB48")
 
 MONGO_URL = getenv("mongodb+srv://yash827830_db_user:DyLsRtr2W1iLL8SK@yash.yprhxeh.mongodb.net/?retryWrites=true&w=majority")
 
